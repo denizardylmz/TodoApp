@@ -1,0 +1,44 @@
+﻿@model List<WorkListDto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body>
+<div class="container my-2">
+    
+    <div class="text-end my-2 ">
+        <a asp-controller="Home" asp-action="Create" class="btn btn-primary btn-sm">New Work</a>
+    </div>
+    
+    
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Definition</th>
+            <th>Is Complete?</th>
+            <th></th>
+        </tr>
+        </thead>
+
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Definition</td>
+                <td>@(item.IsCompleted ? "Completed" : "Not Completed")</td>
+                <td>
+                    <a asp-controller="Home" asp-action="Update" asp-route-id="@item.Id">
+                        <button class="btn btn-primary">Update</button>
+                    </a>
+                    <a asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id">
+                        <button class="btn btn-danger">Delete</button>
+                    </a>
+                </td>
+                
+            </tr>
+        }
+
+        </tbody>
+    </table>
+</div>
+</body>

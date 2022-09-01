@@ -1,0 +1,12 @@
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/bin/Debug/net6.0/Todo.Entities.deps.json
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/bin/Debug/net6.0/Todo.Entities.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/bin/Debug/net6.0/Todo.Entities.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.csproj.AssemblyReference.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.AssemblyInfoInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.AssemblyInfo.cs
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/refint/Todo.Entities.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/Todo.Entities.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.Entities/obj/Debug/net6.0/ref/Todo.Entities.dll

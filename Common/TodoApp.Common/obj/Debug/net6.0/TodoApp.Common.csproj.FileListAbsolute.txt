@@ -1,0 +1,12 @@
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/bin/Debug/net6.0/TodoApp.Common.deps.json
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/bin/Debug/net6.0/TodoApp.Common.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/bin/Debug/net6.0/TodoApp.Common.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.csproj.AssemblyReference.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.AssemblyInfoInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.AssemblyInfo.cs
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/refint/TodoApp.Common.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/TodoApp.Common.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/Common/TodoApp.Common/obj/Debug/net6.0/ref/TodoApp.Common.dll

@@ -1,0 +1,17 @@
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.DataAccess.deps.json
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.DataAccess.runtimeconfig.json
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.DataAccess.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.DataAccess.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.Entities.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/bin/Debug/net6.0/Todo.Entities.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.csproj.AssemblyReference.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.AssemblyInfoInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.AssemblyInfo.cs
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.csproj.CopyComplete
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/refint/Todo.DataAccess.dll
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.pdb
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/Todo.DataAccess.genruntimeconfig.cache
+/Users/denizyilmaz/RiderProjects/TodoApp/DataAccess/Todo.DataAccess/obj/Debug/net6.0/ref/Todo.DataAccess.dll
